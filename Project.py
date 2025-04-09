@@ -31,4 +31,3 @@ else:
     else:
         print("Something Went Wrong!")
 
-# To understand it once again go to 5:46:20
