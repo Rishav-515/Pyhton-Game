@@ -1,7 +1,3 @@
-Here's a simple and clear **README.md** file for your Snake-Water-Gun game:
-
----
-
 # 🐍 Snake-Water-Gun Game (Python Console Version)
 
 A fun little console-based game inspired by the classic "Rock-Paper-Scissors" — but with a twist! Instead of rocks and paper, it's **Snake**, **Water**, and **Gun**. This mini project is coded in Python and demonstrates basic input/output, conditionals, and randomization.
@@ -74,13 +70,4 @@ else:
         print("Something Went Wrong!")
 ```
 
-## ✅ Future Improvements
 
-- Add input validation
-- Track scores
-- Add GUI using Tkinter or PyQt
-- Multiplayer mode
-
----
-
-Let me know if you want a fancier README with emojis, badges, or markdown styling for GitHub!
